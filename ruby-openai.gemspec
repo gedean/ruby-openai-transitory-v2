@@ -1,12 +1,12 @@
 require_relative "lib/openai/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "ruby-openai"
+  spec.name          = "ruby-openai-transitory-v2"
   spec.version       = OpenAI::VERSION
   spec.authors       = ["Alex"]
   spec.email         = ["alexrudall@users.noreply.github.com"]
 
-  spec.summary       = "OpenAI API + Ruby! 🤖🩵"
+  spec.summary       = "While alexrudall/ruby-openai is in v1, this gem is a temporary fork that will be removed once the original gem is updated."
   spec.homepage      = "https://github.com/alexrudall/ruby-openai"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6.0")
