@@ -7,13 +7,12 @@ Gem::Specification.new do |spec|
   spec.email         = ["alexrudall@users.noreply.github.com"]
 
   spec.summary       = "While alexrudall/ruby-openai is in v1, this gem is a temporary fork that will be removed once the original gem is updated."
-  spec.homepage      = "https://github.com/alexrudall/ruby-openai"
+  spec.homepage      = "https://github.com/gedean/ruby-openai-transitory-v2"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6.0")
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/alexrudall/ruby-openai"
-  spec.metadata["changelog_uri"] = "https://github.com/alexrudall/ruby-openai/blob/main/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/gedean/ruby-openai-transitory-v2"
   spec.metadata["rubygems_mfa_required"] = "true"
   spec.metadata["funding_uri"] = "https://github.com/sponsors/alexrudall"
 
